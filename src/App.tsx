@@ -51,7 +51,7 @@ export default function ProfileCard() {
         </p>
 
         {/* Social Icons */}
-        <div className="flex gap-6 mt-6">
+        {/* <div className="flex gap-6 mt-6">
           <a
             href="https://wa.me/0882005090497"
             target="_blank"
@@ -73,7 +73,7 @@ export default function ProfileCard() {
           >
             <FaGithub />
           </a>
-        </div>
+        </div> */}
 
         {/* Tabs */}
         <div className="mt-8 bg-white/20 backdrop-blur-md p-2 rounded-full shadow-inner gap-2 border border-white/30">
