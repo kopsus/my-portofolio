@@ -2,7 +2,7 @@
 
 import { AnimatePresence, motion } from "framer-motion";
 import { useState } from "react";
-import { FaWhatsapp, FaEnvelope, FaGithub } from "react-icons/fa";
+// import { FaWhatsapp, FaEnvelope, FaGithub } from "react-icons/fa";
 import { webProjects } from "./data/webProject";
 import { designProjects } from "./data/designProject";
 import me from "../public/me.jpg";
